@@ -1,4 +1,1 @@
-avos
-====
-
-avos 云代码部署测试
+Cloud code project for mok. https://cn.avoscloud.com/docs/cloud_code_guide.html
